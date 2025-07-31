@@ -69,14 +69,8 @@
   </a>
 </div>
 
-<br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[nsdsi]&label=Lihaters&color=0e75b7&style=for-the-badge" alt="Lihaters" />
-</div>
-<br>
-
-<div align="center">
-  <sub>Dibuat dengan ❤️ dan Markdown</sub>
+  <sub>Keep Coding!</sub>
 </div>
 
 <!-- ## Hi there 👋
