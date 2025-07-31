@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1549646452-44675548c78c?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Data Analysis Illustration" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm41cW1vNmc3Znd2N3NwbDk3OG4yMXFjZ21tNWk2bW1jajg0NGVkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkrlOADZC/giphy.gif" alt="Python Programming GIF" width="400" />
 </div>
 
 <div align="center">
