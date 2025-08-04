@@ -3,7 +3,7 @@ Terima kasih sudah berkunjung ke halaman GitHub ini!!!
 
 ### Mari Terhubung
 - **LinkedIn:** [Nuryana Saepul Ramdan](https://www.linkedin.com/in/nuryanasaepulramdan/)
-- **Instagram:** [Link Instagram Anda](https://www.instagram.com/nsdsidn/)
+- **Instagram:** [Nuryana Saepul Ramdan](https://www.instagram.com/nsdsidn/)
 
 <br>
 See You Next Time
