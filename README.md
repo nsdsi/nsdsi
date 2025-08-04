@@ -1,23 +1,24 @@
+# Halo, saya Nuryana Saepul Ramdan 👋
+Terima kasih sudah berkunjung ke halaman GitHub ini!!!
 
-# Halo semua! 
- 
-Perkenalkan nama saya **Nuryana Saepul Ramdan**.<br>
- 
-Saya seorang **Mahasiswa** jurusan **Fisika** di [IPB University](https://www.ipb.ac.id/).<br>
- 
-Saya merupakan lulusan Bangkit Academy 2024 dengan learning path **Machine Learning**.<br>
- 
-Saya senang mempelajari sains (fisika), pemrograman, dan analisis data.<br>
- 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nuryanasaepulramdan/)ku ya.
- 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/nsdsi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
+### Tentang Saya
+- Saya memahami Bahasa Pemrograman Python
+- Tertarik pada analisis data, dengan menggunakan library seperti NumPy, Pandas, dan TensorFlow.
+- Tools yang biasa saya gunakan adalah Jupyter Notebook, Sublime Text, dan Node.js.
+
+### Statistik GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[username_anda]&show_icons=true&theme=dark&hide_border=true" alt="Statistik GitHub" />
+</div>
+
+---
+
+### Mari Terhubung
+- **LinkedIn:** [Nuryana Saepul Ramdan](https://www.linkedin.com/in/nuryanasaepulramdan/)
+- **Instagram:** [Link Instagram Anda](https://www.instagram.com/nsdsidn/)
+
+<br>
+<sub>Terima Kasih sudah berkunjung</sub>
 <!-- ## Hi there 👋
 
 <!--
