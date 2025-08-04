@@ -6,7 +6,7 @@ Terima kasih sudah berkunjung ke halaman GitHub ini!!!
 - **Instagram:** [Link Instagram Anda](https://www.instagram.com/nsdsidn/)
 
 <br>
-<sub>See You Next Time</sub>
+See You Next Time
 <!-- ## Hi there 👋
 
 <!--
