@@ -6,13 +6,6 @@ Terima kasih sudah berkunjung ke halaman GitHub ini!!!
 - Tertarik pada analisis data, dengan menggunakan library seperti NumPy, Pandas, dan TensorFlow.
 - Tools yang biasa saya gunakan adalah Jupyter Notebook, Sublime Text, dan Node.js.
 
-### Statistik GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username_anda]&show_icons=true&theme=dark&hide_border=true" alt="Statistik GitHub" />
-</div>
-
----
-
 ### Mari Terhubung
 - **LinkedIn:** [Nuryana Saepul Ramdan](https://www.linkedin.com/in/nuryanasaepulramdan/)
 - **Instagram:** [Link Instagram Anda](https://www.instagram.com/nsdsidn/)
